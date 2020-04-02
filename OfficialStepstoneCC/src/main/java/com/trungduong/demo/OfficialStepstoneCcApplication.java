@@ -19,7 +19,6 @@ import javax.xml.bind.Unmarshaller;
 
 import java.net.HttpURLConnection;
 
-@SpringBootApplication
 public class OfficialStepstoneCcApplication {
 	static final String kuser = "testuser";
 	static final String kpass = "testpassword";
@@ -32,8 +31,6 @@ public class OfficialStepstoneCcApplication {
 
 	public static void main(String[] args) {
 		try {
-			SpringApplication.run(OfficialStepstoneCcApplication.class, args);
-
 			// get Input from User in Console
 			Scanner in = new Scanner(System.in);
 			String firstName, lastName;
