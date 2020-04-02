@@ -13,4 +13,4 @@ Finally, thank you for this opportunity and the coding case. I hope that it was 
 I am looking forward to your comments soon.
 
 Best regards,
-Trung Quoc Duong
+Trung Quoc Duong.
